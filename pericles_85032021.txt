@@ -1,0 +1,16 @@
+
+TY  - JOUR
+AU  - Chen, Ying
+AU  - Zhang, Ruirui
+C7  - 6618841
+TI  - Research on Credit Card Default Prediction Based on k-Means SMOTE and BP Neural Network
+JO  - Complexity
+JA  - Complexity
+VL  - 2021
+IS  - 1
+UR  - https://doi.org/10.1155/2021/6618841
+DO  - https://doi.org/10.1155/2021/6618841
+SP  - 6618841
+PY  - 2021
+AB  - Aiming at the problem that the credit card default data of a financial institution is unbalanced, which leads to unsatisfactory prediction results, this paper proposes a prediction model based on k-means SMOTE and BP neural network. In this model, k-means SMOTE algorithm is used to change the data distribution, and then the importance of data features is calculated by using random forest, and then it is substituted into the initial weights of BP neural network for prediction. The model effectively solves the problem of sample data imbalance. At the same time, this paper constructs five common machine learning models, KNN, logistics, SVM, random forest, and tree, and compares the classification performance of these six prediction models. The experimental results show that the proposed algorithm can greatly improve the prediction performance of the model, making its AUC value from 0.765 to 0.929. Moreover, when the importance of features is taken as the initial weight of BP neural network, the accuracy of model prediction is also slightly improved. In addition, compared with the other five prediction models, the comprehensive prediction effect of BP neural network is better.
+ER  - 
